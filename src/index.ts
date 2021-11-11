@@ -1,3 +1,1 @@
-export const Greeter = (name: string) => {
-  return `Hello ${name}`
-}
+export { greeter } from './methods/greeter'
